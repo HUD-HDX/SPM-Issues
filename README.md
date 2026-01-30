@@ -4,4 +4,6 @@ Throughout the submission period, we will use this space to provide general info
 ​The FY 2025 SPM submission period opens February 2, 2026 at 8:00 AM ET and closes on March 4, 2026, at 8:00 PM ET.
 
 # Users Take Note
-During this submission period, as usual, SPMs will also accept resubmissions from the penultimate fiscal year. That is, this year FY24 resubmissions will be accepted (if they are uploaded) in addition to the mandatory FY25 submissions.  
+<ul>
+  <li>During this submission period, as usual, SPMs will also accept resubmissions from the penultimate fiscal year. That is, this year FY24 resubmissions will be accepted (if they are uploaded) in addition to the mandatory FY25 submissions.</li>
+  <li>Do not attempt to upload .zip files. Check the file extension of the file that your HMIS produces. The file should end in .csv not .zip. The SPM requires a .csv upload. </li>
